@@ -1,4 +1,8 @@
-### Hi there 👋
+# This Account has been Moved!
+
+Hello! Thanks for checking out my GitHub repository! Unfortunately, I have changed my account name to [connordyu](https://github.com/connordyu).
+
+Please check it out [here!](https://github.com/connordyu)
 
 <!--
 **cdyu22/cdyu22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
